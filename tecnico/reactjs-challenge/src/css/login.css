@@ -1,0 +1,67 @@
+.Login-logo {
+  filter: invert(88%) sepia(29%) saturate(5250%) hue-rotate(360deg) brightness(105%) contrast(102%);
+  height: 98.12px;
+  width: 96.78px;
+  pointer-events: none;
+  left: 138px;
+  top: 234.92px;
+  position: relative;
+}
+
+.Login-header {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.UserText-input {
+  width: 339px;
+  height: 56px;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  box-shadow: 0pt,2px,#0000001D,6px;
+  border-color: #E5E5E5;
+  font-size: 20px;
+  text-align: left;
+  left: 16px;
+  top: 281.88px;
+  position: relative;
+}
+
+.UserText-input::placeholder {
+  padding-left: 20px;
+  padding-top: 69px;
+}
+
+.UserText-error {
+  font-size: 14px;
+  text-align: left;
+  color: #EB2D2D;
+  width: 118px;
+  height: 16px;
+  left: 218px;
+  top: 240.88px;
+  padding-left: 19px;
+  padding-top: 3px;
+  position: relative;
+}
+
+.EntrarButton{
+  color: #030202;
+  background-color: #FFCE00;
+  width: 349px;
+  height: 56px;
+  left: 16px;
+  top: 283.22px;
+  border-radius: 12px;
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+}
+
+.arrow-icon{
+  width: 18.24px;
+  height: 18.24px;
+}
+
+.hidden{
+  visibility: hidden;
+}

@@ -1,0 +1,25 @@
+.Title{
+    display: block;
+    width: 375px;
+    height: 42px;
+}
+
+.semirect{
+    width: 20px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+}
+
+.Title-text{
+    width: 199px;
+    height: 31px;
+    left: 24px;
+    top: -67.2px;
+    position: relative;
+    font-weight: bold;
+    font-size: 26px;
+    color: #FFFFFF;
+    word-wrap: normal;
+}

@@ -1,0 +1,110 @@
+.User-header {
+    background-color: #1F1F1F;
+    height: 126px;
+    width: 375px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+}
+
+.nickname {
+    height: 21px;
+    width: 112px;
+    color: #FFFFFF;
+    font-size: 17px;
+    font-weight: bold;
+    left: 11px;
+    position: relative;
+}
+
+.sout-label {
+    height: 20px;
+    width: 28px;
+    left: 287px;
+    top: -37px;
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 17px;
+    position: relative;
+}
+
+.sout-icon {
+    height: 19px;
+    width: 19px;
+    filter: invert(35%) sepia(94%) saturate(3905%) hue-rotate(345deg) brightness(88%) contrast(84%);
+    left: 327px;
+    top: -73px;
+    position: relative;
+}
+
+.sin-label {
+    height: 20px;
+    width: 28px;
+    left: 267px;
+    top: -110px;
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 17px;
+    position: relative;
+}
+
+.sin-icon {
+    height: 19px;
+    width: 19px;
+    filter: invert(57%) sepia(43%) saturate(826%) hue-rotate(55deg) brightness(104%) contrast(81%);
+    left: 327px;
+    top: -146px;
+    position: relative;
+}
+
+.Avatar {
+    width: 115px;
+    height: 115px;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 3px;
+    left: 130px;
+    top: -57.5px;
+    position: relative;
+}
+
+.UserName {
+    width: 199px;
+    height: 341px;
+    top: 24px;
+}
+
+.info {
+    width: 200px;
+    height: 45px;
+    top: 4px;
+    left: 24px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+}
+
+.bio {
+    width: 332px;
+    height: 189px;
+    top: -4px;
+    left: 24px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+}
+
+.moreinfo {
+    width: 375px;
+    height: 93px;
+    background-color: #5252525D;
+    margin-bottom: 53px;
+    margin-top: 41px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: baseline;
+}

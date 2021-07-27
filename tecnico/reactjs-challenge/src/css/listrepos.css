@@ -1,0 +1,141 @@
+.List-repo {
+    width: 375px;
+    height: 728px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.List-header-repo {
+    background-color: #1F1F1F;
+    height: 68px;
+    width: 375px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+}
+
+.Empty-repo {
+    width: 375px;
+    height: 60px;
+    font-size: 40px;
+    color: #FFFFFF;
+    font-weight: bold;
+    left: 125px;
+    position: relative;
+}
+
+.Item-repo {
+    width: 375px;
+    height: 151.5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-top: unset;
+    border-left: unset;
+    border-right: unset;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: baseline;
+}
+
+.semirect3 {
+    width: 20px;
+    height: 42px;
+    left: 0px;
+    top: 20px;
+    position: relative;
+}
+
+.left-icon {
+    height: 19px;
+    width: 19px;
+    left: 17.53px;
+    top: 25px;
+    position: relative;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(269deg) brightness(106%) contrast(101%);
+}
+
+.user-count {
+    height: 113px;
+    width: 21px;
+    left: 125px;
+    top: -12.5px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+}
+
+.nickname3 {
+    height: 19px;
+    width: 375px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    left: 28px;
+    top: -25px;
+    position: relative;
+}
+
+.star-icon {
+    height: 19px;
+    width: 19px;
+    left: 30px;
+    top: -50px;
+    position: relative;
+    filter: invert(88%) sepia(29%) saturate(5250%) hue-rotate(360deg) brightness(105%) contrast(102%);
+}
+
+.star-count {
+    height: 19px;
+    width: 19px;
+    left: 54px;
+    top: -86px;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 300;
+    position: relative;
+}
+
+.lockc-icon {
+    height: 19px;
+    width: 19px;
+    left: 315px;
+    top: -120px;
+    position: relative;
+    filter: invert(14%) sepia(74%) saturate(6106%) hue-rotate(343deg) brightness(79%) contrast(105%);
+}
+
+.locko-icon {
+    height: 19px;
+    width: 19px;
+    left: 305px;
+    top: -120px;
+    position: relative;
+    filter: invert(62%) sepia(35%) saturate(924%) hue-rotate(51deg) brightness(95%) contrast(95%);
+}
+
+.user-title {
+    height: 113px;
+    width: 21px;
+    left: 160px;
+    top: -142.5px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+}
+
+.bio1 {
+    width: 289px;
+    height: 42px;
+    top: -55px;
+    left: 28px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 300;
+    position: relative;
+}

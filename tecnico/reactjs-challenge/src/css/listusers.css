@@ -1,0 +1,119 @@
+.List {
+    width: 375px;
+    height: 728px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.List-header {
+    background-color: #1F1F1F;
+    height: 68px;
+    width: 375px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+}
+
+.Empty {
+    width: 375px;
+    height: 60px;
+    font-size: 40px;
+    color: #FFFFFF;
+    font-weight: bold;
+    left: 125px;
+    position: relative;
+}
+
+.Item {
+    width: 375px;
+    height: 79.5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-top: unset;
+    border-left: unset;
+    border-right: unset;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #FFFFFF;
+}
+
+.Item:hover {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #1e0674;
+}
+
+.semirect2 {
+    width: 20px;
+    height: 42px;
+    left: 0px;
+    top: 20px;
+    position: relative;
+}
+
+.Avatar2 {
+    width: 64px;
+    height: 64px;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 3px;
+    left: 15px;
+    top: -42px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: baseline;
+}
+
+.left-icon {
+    height: 19px;
+    width: 19px;
+    left: 17.53px;
+    top: 25px;
+    position: relative;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(269deg) brightness(106%) contrast(101%);
+}
+
+.user-count {
+    height: 113px;
+    width: 21px;
+    left: 125px;
+    top: -12.5px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+}
+
+.nickname2 {
+    height: 19px;
+    width: 101px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    left: 121px;
+    top: -100px;
+    position: relative;
+}
+
+.right-icon {
+    height: 19px;
+    width: 19px;
+    left: 336px;
+    top: -138px;
+    position: relative;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(269deg) brightness(106%) contrast(101%);
+}
+
+.user-title {
+    height: 113px;
+    width: 21px;
+    left: 160px;
+    top: -142.5px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 17px;
+    position: relative;
+}

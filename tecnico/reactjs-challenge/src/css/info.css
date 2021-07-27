@@ -1,0 +1,39 @@
+.text1 {
+    height: 44px;
+    width: 48px;
+    position: relative;
+    font-size: 40px;
+    top: -54px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+
+.text2 {
+    height: 83px;
+    width: 20px;
+    top: -90px;
+    position: relative;
+    font-size: 17px;
+    font-weight: 300;
+    text-decoration: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.linkpos {
+    width: 83px;
+    height: 69px;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 25px;
+    align-items: center;
+}
+
+.linktext {
+    color: #969696;
+}
